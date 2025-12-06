@@ -2,6 +2,6 @@
 {
     static void Main()
     {
-        HelloWorld.Run();
+        Sum.Run();
     }
 }
